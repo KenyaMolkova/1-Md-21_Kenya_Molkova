@@ -1,3 +1,4 @@
+""
 parol1 = input()
 parol2 = input()
 if parol1 == parol2:

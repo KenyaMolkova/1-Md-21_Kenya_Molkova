@@ -26,3 +26,4 @@ elif color1 == 'синий':
         print('ошибка')
 else:
     print('ошибка')
+    ""
