@@ -1,0 +1,7 @@
+cat - кошка
+car - машина
+baby - ребёнок
+pineapple - ананас
+liver - печень
+heart - сердце
+mouse - манипулятор, мышь
